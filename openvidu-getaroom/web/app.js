@@ -266,7 +266,7 @@ function updateLayout() {
  *   3) The token must be consumed in Session.connect() method
  */
 
-var OPENVIDU_SERVER_URL = "https://142.93.207.225:4443";
+var OPENVIDU_SERVER_URL = "https://104.248.120.229:4443";
 var OPENVIDU_SERVER_SECRET = "MY_SECRET";
 
 function getToken(mySessionId) {
