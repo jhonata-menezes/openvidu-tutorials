@@ -91,7 +91,7 @@ function joinRoom() {
 					videoSource: undefined, // The source of video. If undefined default video input
 					publishAudio: true,  	// Whether to start publishing with your audio unmuted or not
 					publishVideo: true,  	// Whether to start publishing with your video enabled or not
-					resolution: '640x480',  // The resolution of your video
+					resolution: '1280x720',  // The resolution of your video
 					frameRate: 30,			// The frame rate of your video
 					insertMode: 'APPEND',	// How the video is inserted in target element 'video-container'
 					mirror: true       		// Whether to mirror your local video or not
