@@ -40,7 +40,7 @@ function joinRoom() {
 
 	// --- 2) Init a session ---
 
-	// session = OV.initSession();
+	session = OV.initSession();
 
 
 	// --- 3) Specify the actions when events take place in the session ---
